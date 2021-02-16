@@ -7,6 +7,7 @@ Pre-requesties :
 - Perl
 - Perl-DBI module
 - Perl-Date-Simple module
+- mutt
 - Postfix and configured for send email
 
 Provide information for below variables :
