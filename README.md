@@ -10,7 +10,7 @@ Pre-requesties :
 - mutt
 - Postfix and configured for send email
 
-Provide information for below variables :
+Provide information for below variables :\n
 $password for your database password
 $database for your database name
 $sender for your sender email address
