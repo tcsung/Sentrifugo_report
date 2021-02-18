@@ -12,7 +12,7 @@ Perl script to let your Sentrifugo generate summary report to the team managers
 - Postfix and configured for send email
 
 ## How to
-Provide information for below variables :
+Provide information for below variables in the script :
 - $password for your database password
 - $database for your database name
 - $sender for your sender email address
