@@ -13,8 +13,8 @@ Perl script to let your Sentrifugo generate summary report to the team managers
 
 ## How to
 Provide information for below variables in the script :
-- $password for your database password
-- $database for your database name
+- $password for your Sentrifugo database password
+- $database for your Sentrifugo database name
 - $sender for your sender email address
 
 Just execute the script to generate the report which will send email to all team managers.
